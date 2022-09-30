@@ -24,7 +24,7 @@ GDSC-IITGoa projects adopt the [Contributor Covenant Code of Conduct](https://ww
 ## Fire Fighters of GitHub !
 
 <a href = "https://github.com/DSC-IIT-GOA/Git-Github-Hacktoberfest-Session">
-<img align="right" width="580" height="760" src = "https://github.com/DSC-IIT-GOA/Git-Github-Hacktoberfest-Session/blob/main/Resource/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">
+<img align="right" width="560" height="750" src = "https://github.com/DSC-IIT-GOA/Git-Github-Hacktoberfest-Session/blob/main/Resource/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">
 </a>
 
 
