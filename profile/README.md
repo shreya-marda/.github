@@ -5,6 +5,7 @@
 ## Hi there 👋
 <h2 align="center">GDSC-IITGOA is a student community with the aim of making tech more accessible as well create an impact in the society through Google technologies. </h2>
 
+<br>
 
 Get Involved
 ----
@@ -12,9 +13,56 @@ Right now, our community is working on building some amazing projects together, 
 if you're looking to get involved.
 - Feel free to contribute to any of our repositories. Check them out on our [GitHub](https://github.com/orgs/DSC-IIT-GOA/repositories).
 
+<br>
+
 ## Connect Here - [Links](https://linktr.ee/dsciitgoa)
 
 GDSC-IITGoa projects adopt the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html). For more information see the [Code of Conduct FAQ](https://www.contributor-covenant.org/faq).
+
+<br>
+
+## Fire Fighters of GitHub !
+
+<a href = "https://github.com/DSC-IIT-GOA/Git-Github-Hacktoberfest-Session">
+<img align="right" width="580" height="760" src = "https://github.com/DSC-IIT-GOA/Git-Github-Hacktoberfest-Session/blob/main/Resource/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">
+</a>
+
+
+<!--
+Add your Image Code Here
+
+Refference Code:
+
+[![< Your Name >](< Image Address >?size=90)](< Your-Name.md file Address >)
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
